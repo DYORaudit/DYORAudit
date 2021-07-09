@@ -1,8 +1,8 @@
 ---
 description: >-
   A detailed progress report that will continue to highlight the progress made
-  by the DYOR Audit Team - by establishing transparency in the Crypto & DeFi
-  Space!
+  by the DYOR Audit Team and our vision for establishing transparency through
+  Decentralization!
 ---
 
 # 🛣️ Our Road-Map
