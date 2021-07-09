@@ -2,7 +2,7 @@
 description: The World's 1st Decentralized Audit Yield Farm and the need for having one!
 ---
 
-# Introducing DYOR Audit
+# 📖 Introducing DYOR Audit
 
 ![The need for the World&#x2019;s 1st Decentralized Audit Yield Farm!](.gitbook/assets/dyor-audit-medium-banner-2.jpg)
 
