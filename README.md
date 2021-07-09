@@ -4,6 +4,8 @@ description: The World's 1st Decentralized Audit Yield Farm and the need for hav
 
 # 📖 Introducing DYOR Audit
 
+
+
 ![The need for the World&#x2019;s 1st Decentralized Audit Yield Farm!](.gitbook/assets/dyor-audit-medium-banner-2.jpg)
 
 \*\*\*\*[**DYOR Audit**](https://dyoraudit.com) **is the first ever truly Decentralized Audit Yield Farm seeking to incentivize community accountability and transparency in the cryptocurrency markets with the $DYOR Token at the heart of our system. The audit farm is deployed on Polygon \(formerly Matic Network\).  
