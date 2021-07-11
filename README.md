@@ -23,7 +23,9 @@ We will explain more of what we have in mind in** [**Our Road-Map**](https://dyo
 
 \*\*\*\*
 
-{% hint style="info" %}
+{% hint style="warning" %}
+**BEWARE OF SCAMMERS & BAD ACTORS!**
+
 _**Do stay tuned by following us on our Official Social Accounts listed below:**_
 {% endhint %}
 
