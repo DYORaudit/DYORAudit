@@ -19,7 +19,7 @@ After getting our hands burnt by rug pulls in the past, we realize the need to o
   
 Doing it in this way prioritizes the earliest farmer - the early investor with the most belief in our vision to gain from what we’re doing over the ICO structure which otherwise prioritizes VCs and the influencers first. It also allows us the time to release the platform features in a way that is in tandem with community sentiment.  
   
-We will explain more of what we have in mind in Our Road-Map!**
+We will explain more of what we have in mind in** [**Our Road-Map**](https://dyor-audit.gitbook.io/dyor-audit/our-road-map)**!**
 
 \*\*\*\*
 
