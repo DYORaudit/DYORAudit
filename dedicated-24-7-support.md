@@ -22,9 +22,3 @@ description: A dedicated round-the-clock support system that cares!
 **Please note: Although we might be available 24x7, you might face delays in getting your query resolved as our response times have taken a hit due to the COVID-19 pandemic and thus request you to kindly bear with us for a maximum turn-around time of 72 hours.**
 {% endhint %}
 
-\*\*\*\*
-
-
-
-
-
