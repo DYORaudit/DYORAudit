@@ -4,7 +4,7 @@ description: A dedicated round-the-clock support system that cares!
 
 # 💬 Dedicated 24/7 Support
 
-![Customer Support that&apos;s truly committed to help resolve!](.gitbook/assets/dyor-audit-customer-support-55.jpg)
+![Customer Support that&apos;s truly committed towards providing a resolution!](.gitbook/assets/dyor-audit-customer-support-55.jpg)
 
 **At** [**DYOR Audit**](https://dyoraudit.com)**, we believe in having a committed customer support system in place to tackle any and all queries that our community might have for us to answer, at anytime of the day or night!**
 
