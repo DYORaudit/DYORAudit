@@ -29,7 +29,7 @@ We will explain more of what we have in mind in** [**Our Road-Map**](https://dyo
 _**Do stay tuned by following us on our Official Social Accounts listed below:**_
 {% endhint %}
 
-📲 **TG  Chat**: [**https://t.me/DYORauditGroup**](https://t.me/DYORauditGroup) 
+📲 **TG Group**: [**https://t.me/DYORauditGroup**](https://t.me/DYORauditGroup) 
 
 📲 **TG Announcement**: [**https://t.me/DYORauditChannel**](https://t.me/DYORauditChannel) ****
 

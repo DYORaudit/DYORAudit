@@ -23,7 +23,7 @@ description: >-
 
    \*\*\*\*
 
-4. **Initiating Audit Services - Latter end of the 3rd Quarter** 
+4. **Initiating Audit Services - Latter end of the 3rd Quarter ✅**
 
    \*\*\*\*
 
@@ -77,7 +77,7 @@ description: >-
 _**Do stay tuned by following us on our Official Social Accounts listed below:**_
 {% endhint %}
 
-📲 **TG Chat**: [**https://t.me/DYORauditGroup**](https://t.me/DYORauditGroup)
+📲 **TG Group**: [**https://t.me/DYORauditGroup**](https://t.me/DYORauditGroup)
 
 📲 **TG Announcement**: [**https://t.me/DYORauditChannel**](https://t.me/DYORauditChannel)
 
