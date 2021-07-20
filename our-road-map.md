@@ -23,7 +23,7 @@ description: >-
 
    \*\*\*\*
 
-4. **Initiating Audit Services - Latter end of the 3rd Quarter ✅**
+4. **Initiating Audit Services - Latter end of the 3rd Quarter** 
 
    \*\*\*\*
 
