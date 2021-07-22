@@ -8,7 +8,7 @@ description: >-
 
 **You the community are the center-stage of why we have created this platform!**
 
-**We value you, the user’s inputs and will try our best to accommodate community inputs into platform features through all the stages of the Team's entire vision and** [**Our Road-Map**](https://dyor-audit.gitbook.io/dyor-audit/our-road-map)**.**
+**We value you, the user’s inputs and will try our best to accommodate community feedback into platform features through all the stages of the Team's entire vision and** [**Our Road-Map**](https://dyor-audit.gitbook.io/dyor-audit/our-road-map)**.**
 
 ![DYOR Audit - Social Media &amp; Community Handles](.gitbook/assets/dyor-audit-social-media.jpg)
 
