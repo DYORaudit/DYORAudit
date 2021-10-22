@@ -7,69 +7,34 @@ description: >-
 
 # 🛣️ Our Road-Map
 
-**Our Road-Map highlights the very fundamentals as well as Our Team's dedication towards achieving the Goals set-out to make** [**DYOR Audit**](https://dyoraudit.com) **the true game-changer in the Crypto & DeFi space!**
+**Our Road-Map highlights the very fundamentals as well as Our Team's dedication towards achieving the Goals set-out to make **[**DYOR Audit**](https://dyoraudit.com)** the true game-changer in the Crypto & DeFi space!**
 
-![The DYOR Audit - Road Map](.gitbook/assets/dyor-audit-road-map-1-.jpg)
+![The DYOR Audit - Road Map](<.gitbook/assets/DYOR Audit Pre-Sale Updated Road-Map.png>)
 
 1. **Landing Page Launch - 8th July, 2021 ✅**
+2. **DEX Launch - 1st September, 2021 ✅**
+3. **DYOR Token Public Pre-Sale - 21st October, 2021 ✅**
+4. **Pre-Sale Ends - 31st December, 2021**
+5. **DYOR Token Burn (Unsold Tokens) - 10th March, 2022**
+6. **DYOR Token Public Release - 15th March, 2022**
+7. **Deployment of Farms & Pools - 20th March, 2022**
+8. **Initiating Staking Audit Services - 25th March, 2022 **
+9. **DApp Builder Platform -  15th July, 2022**
+10. **Official Launch PURGE PROTOCOL - 10th September, 2022**
+11. **Community Audits - 1st October, 2022**
+12. **Integrating Security Panel with Operations - 20th October, 2022**
+13. **Listing on Top Exchanges - 1st November, 2022**
+14. **Progress towards DYOR Phase - 2022**
 
-   \*\*\*\*
-
-2. **DEX Launch - 3rd Quarter** 
-
-   \*\*\*\*
-
-3. **Deployment of Farms & Pools - 3rd Quarter** 
-
-   \*\*\*\*
-
-4. **Initiating Audit Services - Latter end of the 3rd Quarter** 
-
-   \*\*\*\*
-
-5. **Project Leaderboard - Within the 3rd Quarter** 
-
-   \*\*\*\*
-
-6. **Release of the PURGE - Early 4th Quarter**
-
-   \*\*\*\*
-
-7. **Bounty System Deployment \(Reward Mechanism\) - Mid 4th Quarter**
-
-   \*\*\*\*
-
-8. **NFT Audits - Mid 4th Quarter**
-
-   \*\*\*\*
-
-9. **Listing on Top Exchanges - Within the 4th Quarter**
-
-   \*\*\*\*
-
-10. **Decentralized Voting System Deployment - 1st Quarter - 2022**
-
-    \*\*\*\*
-
-11. **Community Efforts for on-boarding Researchers and Auditors - Mid 1st Quarter, 2022**
-
-    \*\*\*\*
-
-12. **Integrating Security Panel with Operations - Latter end of the 1st Quarter, 2022**
-
-    \*\*\*\*
-
-13. **Multi-Chain Launch - 2nd Quarter, 2022**
-
-\*\*\*\*
+****
 
 > ### **We look forward to updating this Road-Map at the end of every quarter to highlight the progress that we have made as well as expand upon each development in detail.**
 
-\*\*\*\*
+****
 
-**The** [**DYOR Audit**](https://dyoraudit.com) **Team will also most graciously take into account the community's considerations and feedback in helping us build the most robust decentralized counterfeit mechanism in existence!**
+**The **[**DYOR Audit**](https://dyoraudit.com)** Team will also most graciously take into account the community's considerations and feedback in helping us build the most robust decentralized counterfeit mechanism in existence!**
 
-\*\*\*\*
+****
 
 {% hint style="warning" %}
 **BEWARE OF SCAMMERS & BAD ACTORS!**
@@ -87,5 +52,4 @@ _**Do stay tuned by following us on our Official Social Accounts listed below:**
 
 📲 **Medium**: [**https://medium.com/@DYORaudit**](https://medium.com/@DYORaudit)
 
-📲 **GitHub**: [**https://github.com/DYOR-Audit**](https://github.com/DYOR-Audit)\*\*\*\*
-
+📲 **GitHub**: [**https://github.com/DYOR-Audit**](https://github.com/DYOR-Audit)****
