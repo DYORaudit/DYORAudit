@@ -9,12 +9,12 @@ description: >-
 
 **Our Road-Map highlights the very fundamentals as well as Our Team's dedication towards achieving the Goals set-out to make **[**DYOR Audit**](https://dyoraudit.com)** the true game-changer in the Crypto & DeFi space!**
 
-![The DYOR Audit - Road Map](<.gitbook/assets/DYOR Audit New Updated Road-Map.png>)
+![The DYOR Audit - Road Map](<.gitbook/assets/DYOR Audit New Updated Road-Map (1).png>)
 
 1. **Landing Page Launch - 8th July, 2021 ✅**
 2. **DEX Launch - 1st September, 2021 ✅**
 3. **DYOR Token Public Pre-Sale - 21st October, 2021 ✅**
-4. **Multi-Chain LaunchPad - 25th October, 2021 ✅**
+4. **Multi-Chain LaunchPad - 26th October, 2021 ✅**
 5. **Pre-Sale Ends - 31st December, 2021**
 6. **DYOR Token Burn (Unsold Tokens) - 10th March, 2022**
 7. **DYOR Token Public Release - 15th March, 2022**
