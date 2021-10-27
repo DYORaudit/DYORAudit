@@ -5,7 +5,7 @@ description: >-
   Decentralization!
 ---
 
-# 🛣️ Our Road-Map
+# 🛣 Our Road-Map
 
 **Our Road-Map highlights the very fundamentals as well as Our Team's dedication towards achieving the Goals set-out to make **[**DYOR Audit**](https://dyoraudit.com)** the true game-changer in the Crypto & DeFi space!**
 
