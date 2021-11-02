@@ -43,14 +43,18 @@ description: >-
 _**Do stay tuned by following us on our Official Social Accounts listed below:**_
 {% endhint %}
 
-📲 **TG Group**: [**https://t.me/DYORauditGroup**](https://t.me/DYORauditGroup)
+📲 **TG Group**: [**https://t.me/DYORauditGroup**](https://t.me/DYORauditGroup)&#x20;
 
-📲 **TG Announcement**: [**https://t.me/DYORauditChannel**](https://t.me/DYORauditChannel)
+📲 **TG Announcement**: [**https://t.me/DYORauditChannel**](https://t.me/DYORauditChannel)** **
 
-📲 **Twitter**: [**https://twitter.com/DYORaudit**](https://twitter.com/DYORaudit)
+📲 **Twitter**: [**https://twitter.com/DYORaudit**](https://twitter.com/DYORaudit)** **
 
-📲 **YouTube**: [**https://www.youtube.com/channel/UCSgPvtqvCzdkmXshVW0lTBA**](https://www.youtube.com/channel/UCSgPvtqvCzdkmXshVW0lTBA)**​**
+📲 **YouTube**:** **[**https://www.youtube.com/channel/UCSgPvtqvCzdkmXshVW0lTBA**](https://www.youtube.com/channel/UCSgPvtqvCzdkmXshVW0lTBA)****
 
-📲 **Medium**: [**https://medium.com/@DYORaudit**](https://medium.com/@DYORaudit)
+📲 **Medium**: [**https://medium.com/@DYORaudit**](https://medium.com/@DYORaudit)****
 
 📲 **GitHub**: [**https://github.com/DYOR-Audit**](https://github.com/DYOR-Audit)****
+
+📲 **Facebook**: [**https://www.facebook.com/DYORaudit**](https://www.facebook.com/DYORaudit/)****
+
+📲 **Instagram**: [**https://www.instagram.com/dyoraudit**](https://www.instagram.com/dyoraudit/)****
