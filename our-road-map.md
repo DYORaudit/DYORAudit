@@ -7,7 +7,7 @@ description: >-
 
 # 🛣 Our Road-Map
 
-**Our Road-Map highlights the very fundamentals as well as Our Team's dedication towards achieving the Goals set-out to make **[**DYOR Audit**](https://dyoraudit.com)** the true game-changer in the Crypto & DeFi space!**
+**Our Road-Map highlights the very fundamentals as well as Our Team's dedication towards achieving the Goals set-out to make** [**DYOR Audit**](https://dyoraudit.com) **the true game-changer in the Crypto & DeFi space!**
 
 ![The DYOR Audit - Road Map](<.gitbook/assets/DYOR Audit New Updated Road-Map (1).png>)
 
@@ -15,11 +15,11 @@ description: >-
 2. **DEX Launch - 1st September, 2021 ✅**
 3. **DYOR Token Public Pre-Sale - 21st October, 2021 ✅**
 4. **Multi-Chain LaunchPad - 26th October, 2021 ✅**
-5. **Pre-Sale Ends - 31st December, 2021**
-6. **DYOR Token Burn (Unsold Tokens) - 10th March, 2022**
+5. **Pre-Sale Ends - 31st December, 2021 ✅**
+6. **DYOR Token Burn (Unsold Tokens) - 10th March, 2022 ✅**
 7. **DYOR Token Public Release - 15th March, 2022**
 8. **Deployment of Farms & Pools - 20th March, 2022**
-9. **Initiating Staking Audit Services - 25th March, 2022 **
+9. **Initiating Staking Audit Services - 25th March, 2022**&#x20;
 10. **DApp Builder Platform -  15th July, 2022**
 11. **Official Launch PURGE PROTOCOL - 10th September, 2022**
 12. **Community Audits - 1st October, 2022**
@@ -33,7 +33,7 @@ description: >-
 
 ****
 
-**The **[**DYOR Audit**](https://dyoraudit.com)** Team will also most graciously take into account the community's considerations and feedback in helping us build the most robust decentralized counterfeit mechanism in existence!**
+**The** [**DYOR Audit**](https://dyoraudit.com) **Team will also most graciously take into account the community's considerations and feedback in helping us build the most robust decentralized counterfeit mechanism in existence!**
 
 ****
 
@@ -45,11 +45,11 @@ _**Do stay tuned by following us on our Official Social Accounts listed below:**
 
 📲 **TG Group**: [**https://t.me/DYORauditGroup**](https://t.me/DYORauditGroup)&#x20;
 
-📲 **TG Announcement**: [**https://t.me/DYORauditChannel**](https://t.me/DYORauditChannel)** **
+📲 **TG Announcement**: [**https://t.me/DYORauditChannel**](https://t.me/DYORauditChannel) ****&#x20;
 
-📲 **Twitter**: [**https://twitter.com/DYORaudit**](https://twitter.com/DYORaudit)** **
+📲 **Twitter**: [**https://twitter.com/DYORaudit**](https://twitter.com/DYORaudit) ****&#x20;
 
-📲 **YouTube**:** **[**https://www.youtube.com/channel/UCSgPvtqvCzdkmXshVW0lTBA**](https://www.youtube.com/channel/UCSgPvtqvCzdkmXshVW0lTBA)****
+📲 **YouTube**: **** [**https://www.youtube.com/channel/UCSgPvtqvCzdkmXshVW0lTBA**](https://www.youtube.com/channel/UCSgPvtqvCzdkmXshVW0lTBA)****
 
 📲 **Medium**: [**https://medium.com/@DYORaudit**](https://medium.com/@DYORaudit)****
 
